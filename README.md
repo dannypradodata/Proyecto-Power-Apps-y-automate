@@ -1,4 +1,4 @@
-
+Primero que nada, darte las gracias mi gran amigo Fernando, mi primer Jefe, gracias por todo, gracias por la confianza, este proyecto no hubiera sido posible sin tu ayuda y de los usuarios finales que fueron mis compañeros de área.
 
 <img width="669" height="515" alt="image" src="https://github.com/user-attachments/assets/26eb6d24-fcde-438e-a44a-34fc2fb6c65e" />
 
