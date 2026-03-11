@@ -1,5 +1,7 @@
 Primero que nada, darte las gracias mi gran amigo Fernando, mi primer Jefe, gracias por todo, gracias por la confianza, este proyecto no hubiera sido posible sin tu ayuda y de los usuarios finales que fueron mis compañeros de área.
 
+Este proyecto tiene como finalidad, optimiar y reducir el tiempo en generar cartas de mantenimiento catastral.
+
 <img width="669" height="515" alt="image" src="https://github.com/user-attachments/assets/26eb6d24-fcde-438e-a44a-34fc2fb6c65e" />
 
 
@@ -7,17 +9,19 @@ Primero que nada, darte las gracias mi gran amigo Fernando, mi primer Jefe, grac
 
 
 
-
+Como se puede apreciar en la imagen, hay botones desahibilitados, debido a que no todas las personas del área tendran acceso a ciertas áreas, 
+todo dependera del rol que tienen al momento de loguearse.
 
 <img width="1430" height="515" alt="image" src="https://github.com/user-attachments/assets/453e37b3-d9b3-44ea-af0e-86a434e03288" />
 
 
-
+A continuación se presenta el flujo que nos ayuda a traer datos del excel que esta dentro de un share point, que es nuestra
+data, de donde estan los datos de los usuarios.
 
 <img width="229" height="37" alt="image" src="https://github.com/user-attachments/assets/b264feb9-fa45-4fd9-85d0-1aa4f2c82669" />
 
 
-
+Esta pantalla es una pequeño ejemplo, aqui es donde se traera la información como tal.
 <img width="770" height="466" alt="image" src="https://github.com/user-attachments/assets/41d593ab-56d2-44fb-9a58-5a4495cd8d12" />
 
 
